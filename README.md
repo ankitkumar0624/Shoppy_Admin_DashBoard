@@ -18,6 +18,9 @@ Customer ,Orders and Employee pages
 ![Screenshot (410)](https://user-images.githubusercontent.com/76895565/198516452-1c15de06-4c3d-4383-87ec-c00291ae1f30.png)
 Calender
 ![Screenshot (389)](https://user-images.githubusercontent.com/76895565/198515783-9befb39e-6e77-4cce-bcd9-ecee5fd801f8.png)
+Chart
+![Screenshot (400)](https://user-images.githubusercontent.com/76895565/198517139-5e1903bf-88f7-4488-bcd0-a92a7076e24e.png)
+![Screenshot (398)](https://user-images.githubusercontent.com/76895565/198517163-5aad06f6-6f59-42d2-9f5e-c89d48b0549b.png)
 
 
 
