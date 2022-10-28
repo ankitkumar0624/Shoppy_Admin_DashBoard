@@ -1,5 +1,5 @@
 # Build a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
-![Shoppy](https://i.ibb.co/W6g39w3/image.png)
+![Screenshot (408)](https://user-images.githubusercontent.com/76895565/198515384-bc601e0b-07fb-40f2-bb34-9587cd1bca07.png)
 
 ## Introduction
 # Admin & Dashboard Templates
@@ -12,5 +12,9 @@ Dashboard Template is a bundle of ready to use, highly creative and functional p
 - Creating a User Interface using Material UI
 - Working with Google Maps API
 - And most importantly fetching data from unlimited sources using RapidAPI
+
+# Highligths
+Calender
+
 
 
