@@ -15,6 +15,7 @@ Dashboard Template is a bundle of ready to use, highly creative and functional p
 
 # Highligths
 Calender
+![Screenshot (389)](https://user-images.githubusercontent.com/76895565/198515783-9befb39e-6e77-4cce-bcd9-ecee5fd801f8.png)
 
 
 
