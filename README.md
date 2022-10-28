@@ -7,6 +7,10 @@ A dashboard is well organized graphical presentation of the information for the 
 
 Dashboard Template is a bundle of ready to use, highly creative and functional pages which eradicate the pain of Web Developers & Designers to create web app from scratch. You can call it Admin Template as well.
 
-If you want to get a finished, highly customizable Material UI version of a similar dashboard, check out [Flexy React Material Dashboard](https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=257&campaign=Flexy).
+#  In this Project ,what I learn and technology used:
+- Advanced React Best Practices such as folder & file structure, hooks and refs
+- Creating a User Interface using Material UI
+- Working with Google Maps API
+- And most importantly fetching data from unlimited sources using RapidAPI
 
-## Launch your development career with project-based coaching - https://www.jsmastery.pro
+
