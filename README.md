@@ -14,9 +14,10 @@ Dashboard Template is a bundle of ready to use, highly creative and functional p
 - And most importantly fetching data from unlimited sources using RapidAPI
 
 # Highligths
+Customer ,Orders and Employee pages
+![Screenshot (410)](https://user-images.githubusercontent.com/76895565/198516452-1c15de06-4c3d-4383-87ec-c00291ae1f30.png)
 Calender
 ![Screenshot (389)](https://user-images.githubusercontent.com/76895565/198515783-9befb39e-6e77-4cce-bcd9-ecee5fd801f8.png)
-Customer ,Orders and Employee pages
 
 
 
